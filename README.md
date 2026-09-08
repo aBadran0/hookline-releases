@@ -19,12 +19,15 @@ Grab the newest archive from the [Releases page](../../releases/latest). Both pl
 | Key | Action |
 |---|---|
 | WASD / Space | Move / jump (S drops through one-way platforms) |
+| Ctrl | Crouch (Space while crouched also drops) |
 | Mouse | Aim |
 | Left mouse / E / R / Q | Primary / secondary / ultimate / held item |
 | Hold right mouse | Grapple (release to drop); W/S reel, A/D pump the swing |
-| 1-5, Tab | Select a teammate body, take/request/accept it |
+| 1-9, 0, Tab | Unfold a teammate's icon in the bottom row, take/request/accept that body (free before the round starts) |
+| Hold Caps Lock | Scoreboard |
 | F11 or Alt+Enter | Toggle fullscreen |
 | C | Free camera |
+| Hover the PASSIVE cell | Read your class passive and idle-craft item |
 
 ## Notes
 
