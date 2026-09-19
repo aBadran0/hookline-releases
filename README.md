@@ -9,6 +9,9 @@ Grab the archive for your OS from the [Releases page](../../releases/latest) —
 `Hookline-Linux-*.zip`. Both players must be on the same release; a Windows player and a Linux player from the
 same release can join the same match.
 
+The 2026-09-19 (r8) beta is Windows only; the last Linux build is [r7](../../releases/tag/v2026.09.08-r7), which cannot
+join r8 matches.
+
 ## Get started
 
 1. Extract the whole archive to a folder. Do not run the game from inside the archive viewer.
@@ -33,6 +36,10 @@ same release can join the same match.
 | F11 or Alt+Enter | Toggle fullscreen |
 | C | Free camera |
 | Hover the PASSIVE cell | Read your class passive and idle-craft item |
+| Escape | Settings (in a match: also LEAVE MATCH) |
+
+These are the defaults. From r8 every binding can be changed in Settings > Controls. The same tab has
+**Auto-reel while grappling** (off by default): the rope reels in on its own while you hold the grapple button; hold S to pause.
 
 ## Notes
 
