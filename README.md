@@ -9,8 +9,8 @@ Grab the archive for your OS from the [Releases page](../../releases/latest) —
 `Hookline-Linux-*.zip`. Both players must be on the same release; a Windows player and a Linux player from the
 same release can join the same match.
 
-The 2026-09-19 (r8) beta is Windows only; the last Linux build is [r7](../../releases/tag/v2026.09.08-r7), which cannot
-join r8 matches.
+The 2026-09-23 (r9) beta ships both again. Its Linux ZIP was checked file by file but not launched on Linux before
+release; please open an issue if it does not start.
 
 ## Get started
 
